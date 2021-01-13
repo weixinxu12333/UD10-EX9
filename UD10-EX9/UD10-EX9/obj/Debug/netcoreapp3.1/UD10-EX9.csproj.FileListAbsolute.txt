@@ -1,0 +1,13 @@
+C:\Users\wendy\source\repos\UD10-EX9\UD10-EX9\bin\Debug\netcoreapp3.1\UD10-EX9.exe
+C:\Users\wendy\source\repos\UD10-EX9\UD10-EX9\bin\Debug\netcoreapp3.1\UD10-EX9.deps.json
+C:\Users\wendy\source\repos\UD10-EX9\UD10-EX9\bin\Debug\netcoreapp3.1\UD10-EX9.runtimeconfig.json
+C:\Users\wendy\source\repos\UD10-EX9\UD10-EX9\bin\Debug\netcoreapp3.1\UD10-EX9.runtimeconfig.dev.json
+C:\Users\wendy\source\repos\UD10-EX9\UD10-EX9\bin\Debug\netcoreapp3.1\UD10-EX9.dll
+C:\Users\wendy\source\repos\UD10-EX9\UD10-EX9\bin\Debug\netcoreapp3.1\UD10-EX9.pdb
+C:\Users\wendy\source\repos\UD10-EX9\UD10-EX9\obj\Debug\netcoreapp3.1\UD10-EX9.csprojAssemblyReference.cache
+C:\Users\wendy\source\repos\UD10-EX9\UD10-EX9\obj\Debug\netcoreapp3.1\UD10-EX9.AssemblyInfoInputs.cache
+C:\Users\wendy\source\repos\UD10-EX9\UD10-EX9\obj\Debug\netcoreapp3.1\UD10-EX9.AssemblyInfo.cs
+C:\Users\wendy\source\repos\UD10-EX9\UD10-EX9\obj\Debug\netcoreapp3.1\UD10-EX9.csproj.CoreCompileInputs.cache
+C:\Users\wendy\source\repos\UD10-EX9\UD10-EX9\obj\Debug\netcoreapp3.1\UD10-EX9.dll
+C:\Users\wendy\source\repos\UD10-EX9\UD10-EX9\obj\Debug\netcoreapp3.1\UD10-EX9.pdb
+C:\Users\wendy\source\repos\UD10-EX9\UD10-EX9\obj\Debug\netcoreapp3.1\UD10-EX9.genruntimeconfig.cache
